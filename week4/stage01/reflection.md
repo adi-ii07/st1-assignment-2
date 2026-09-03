@@ -1,0 +1,7 @@
+During this task, I developed a simple SmartCare appointment booking system using Python. I started with basic variables and print statements to store and display patient, practitioner and appointment information. I then improved the program by using a list, dictionaries and functions. This made the program more organised and allowed multiple appointments to be stored and displayed more easily.
+
+I also used AI to help review the code and identify possible limitations. Some limitations included limited input validation, the use of a global list, and the possibility of a practitioner being booked for two appointments at the same time. Comparing my version with the AI-generated version helped me understand that there can be different ways to solve the same programming problem.
+
+Testing was also important because it showed how the program responded to normal and unusual inputs. For example, I tested a blank patient name, a None value and a duplicate practitioner booking. I then improved the program by adding a check that prevents a practitioner from being booked at the same time twice.
+
+Overall, this task helped me better understand functions, lists, dictionaries, error handling, testing and how AI can be used to support software development.
